@@ -1,4 +1,4 @@
 # komalDemo
 This is my first Git Repository.
 <br>
-Author-Komal(Sonu Khanuja)
+Author-Komal(Apna college)
